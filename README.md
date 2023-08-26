@@ -6,3 +6,5 @@
 * Figure:
 ![image](https://github.com/fatenikhsan/microwave-sensor-with-interdigital-capacitor-IDC-/assets/142777956/3d61a955-a932-4327-abb2-28e0a1310a8f)
 
+* Figure- IDC
+  ![image](https://github.com/fatenikhsan/microwave-sensor-with-interdigital-capacitor-IDC-/assets/142777956/997b0f51-13aa-44f5-9f93-0f9eb1cccc26)
