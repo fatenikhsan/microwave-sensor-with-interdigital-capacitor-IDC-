@@ -1,1 +1,1 @@
-# microwave-sensor-with-interdigital-capacitor-IDC-
+# Microwave-Sensor-with-Interdigital-Capacitor-IDC-
